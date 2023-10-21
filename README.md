@@ -77,11 +77,6 @@
   
 
 <br/>  
-
-
-## Dev.  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 </div>  
 <br/>    
 <br/>  
