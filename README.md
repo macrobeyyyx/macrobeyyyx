@@ -82,28 +82,10 @@
 ## Dev.  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=macrobeyyyx&&style=flat-square" align="center" />
 </div>  
-  
 <br/>    
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-
 <br />
-
-----
