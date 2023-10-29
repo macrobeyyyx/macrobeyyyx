@@ -1,4 +1,4 @@
-## *<div align="center">Hello, I'm Mert! They usually call me "Macro," but regardless, I've been actively involved in the IT world for over 8 years.</div>*  
+## *<div align="center">Hello, I'm Mert! They usually call me "Macro," but regardless, I've been actively involved in the IT world for over 4 years.</div>*  
   
 
 - **During this time, I've worked with various programming languages and technologies, including C, C++, C#, Java, and Python ...**  
@@ -51,7 +51,7 @@
 ### Database  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>  
 </div>
 
 </td></tr></table>  
