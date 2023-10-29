@@ -4,7 +4,7 @@
 - **During this time, I've worked with various programming languages and technologies, including C, C++, C#, Java, and Python ...**  
   
 
-- **Over the course of 8 years, I've been involved in a wide range of projects, such as software development, database design, web applications, desktop applications, and various other**  
+- **Over the course of 4 years, I've been involved in a wide range of projects, such as software development, database design, web applications, desktop applications, and various other**  
   
 
 - **If you have any questions about my experiences in the IT world or any related queries, feel free to ask. I'd be happy to assist.**  
